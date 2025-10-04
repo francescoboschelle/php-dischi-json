@@ -2,42 +2,42 @@
   {
     "title": "The Dark Side of the Moon",
     "artist": "Pink Floyd",
-    "cover_url": "https://example.com/covers/dark-side-moon.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51UtWpxbNYL._UF1000,1000_QL80_.jpg",
     "published_year": 1973,
     "genre": "Progressive Rock"
   },
   {
     "title": "Thriller",
     "artist": "Michael Jackson",
-    "cover_url": "https://example.com/covers/thriller.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/81ogsUqshzL._UF1000,1000_QL80_.jpg",
     "published_year": 1982,
     "genre": "Pop"
   },
   {
     "title": "Abbey Road",
     "artist": "The Beatles",
-    "cover_url": "https://example.com/covers/abbey-road.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/81sBKBIcwvL._UF1000,1000_QL80_.jpg",
     "published_year": 1969,
     "genre": "Rock"
   },
   {
     "title": "Back to Black",
     "artist": "Amy Winehouse",
-    "cover_url": "https://example.com/covers/back-to-black.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/71Y55FU5VGL.jpg",
     "published_year": 2006,
     "genre": "Soul"
   },
   {
     "title": "OK Computer",
     "artist": "Radiohead",
-    "cover_url": "https://example.com/covers/ok-computer.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/715LZJ5qX0L._UF350,350_QL50_.jpg",
     "published_year": 1997,
     "genre": "Alternative Rock"
   },
   {
     "title": "Random Access Memories",
     "artist": "Daft Punk",
-    "cover_url": "https://example.com/covers/random-access-memories.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/61Ia07wdZQL._UF1000,1000_QL80_.jpg",
     "published_year": 2013,
     "genre": "Electronic"
   }
