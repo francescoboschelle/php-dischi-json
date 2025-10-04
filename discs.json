@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "cover_url": "https://example.com/covers/dark-side-moon.jpg",
+    "published_year": 1973,
+    "genre": "Progressive Rock"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "cover_url": "https://example.com/covers/thriller.jpg",
+    "published_year": 1982,
+    "genre": "Pop"
+  },
+  {
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "cover_url": "https://example.com/covers/abbey-road.jpg",
+    "published_year": 1969,
+    "genre": "Rock"
+  },
+  {
+    "title": "Back to Black",
+    "artist": "Amy Winehouse",
+    "cover_url": "https://example.com/covers/back-to-black.jpg",
+    "published_year": 2006,
+    "genre": "Soul"
+  },
+  {
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "cover_url": "https://example.com/covers/ok-computer.jpg",
+    "published_year": 1997,
+    "genre": "Alternative Rock"
+  },
+  {
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "cover_url": "https://example.com/covers/random-access-memories.jpg",
+    "published_year": 2013,
+    "genre": "Electronic"
+  }
+]
