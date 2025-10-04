@@ -1,7 +1,8 @@
 <?php
     $json_text = file_get_contents("./discs.json");
-
     $discs = json_decode($json_text, true);
+
+    $error = (isset($_GET["error"]) && $_GET["error"] == 'missing_data') ? "Devi includere tutti i valori!" : null;
 ?>
 
 
@@ -21,6 +22,17 @@
             <p>Esplora i nostri dischi o aggiungine di nuovi</p>
         </div>
         <hr>
+
+        <?php if ($error): ?>
+            <section>
+                <div
+                    class="alert alert-danger"
+                    role="alert"
+                >
+                    <strong>Errore!</strong> <?php echo $error ?>
+                </div>
+            </section>
+        <?php endif; ?>
 
         <section>
             <div class="row">
@@ -106,12 +118,14 @@
                             />
                         </div>
                     </div>
-                    <button
-                        type="submit"
-                        class="btn btn-primary"
-                    >
-                        Invia
-                    </button>
+                    <div class="text-center">
+                        <button
+                            type="submit"
+                            class="btn btn-primary"
+                        >
+                            Invia
+                        </button>
+                    </div>
                 </form>
         </section>
     </div>
